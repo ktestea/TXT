@@ -1,0 +1,7 @@
+favorite movie: The Big Bang Theory
+
+favorite food: Pizza
+
+favorite season: Spring
+
+favorite country: Italy

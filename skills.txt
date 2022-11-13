@@ -1,0 +1,19 @@
+﻿1. Виды тестирования: Functional, Smoke, Regression, Cross-browser testing.
+
+2. Bug reports, Test cases, Check lists, SDLC, STLC.
+
+3. Что такое клиент-серверная архитектура.
+
+4. HTTP Методы запросов на сервер.
+
+5. Коды ответов HTTP сервера.
+
+6. Структуры HTTP запросов и ответов.
+
+7. Что такое JSON, XML. Их структура.
+
+8. Тестирование API через Postman.
+
+9. Chrome Devtools.
+
+10. Основы SQL (Create, Delete, Drop, Insert Into, Select, From, Where, Join).
