@@ -1,1 +1,12 @@
-
+Bug_id: 01
+Title: User can’t login
+Severity: high
+Priority: major
+Environment: Windows 10, Google Chrome
+Steps_to_reproduce: 
+1. Enter valid username.
+2. Enter valid password.
+3. Press button “Continue”.
+Actual_result: User can’t login
+Expected_result: User is logged in
+Attachment: 
