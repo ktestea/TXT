@@ -9,4 +9,4 @@ Steps_to_reproduce:
 3. Press button “Continue”.
 Actual_result: User can’t login
 Expected_result: User is logged in
-Attachment: 
+Attachment: img.png
